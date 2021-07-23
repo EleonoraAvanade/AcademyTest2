@@ -1,0 +1,16 @@
+C:\Users\eleonora.lombardo\source\repos\Week2-AC\Week2-AC\bin\Debug\net5.0\Week2-AC.exe
+C:\Users\eleonora.lombardo\source\repos\Week2-AC\Week2-AC\bin\Debug\net5.0\Week2-AC.deps.json
+C:\Users\eleonora.lombardo\source\repos\Week2-AC\Week2-AC\bin\Debug\net5.0\Week2-AC.runtimeconfig.json
+C:\Users\eleonora.lombardo\source\repos\Week2-AC\Week2-AC\bin\Debug\net5.0\Week2-AC.runtimeconfig.dev.json
+C:\Users\eleonora.lombardo\source\repos\Week2-AC\Week2-AC\bin\Debug\net5.0\Week2-AC.dll
+C:\Users\eleonora.lombardo\source\repos\Week2-AC\Week2-AC\bin\Debug\net5.0\ref\Week2-AC.dll
+C:\Users\eleonora.lombardo\source\repos\Week2-AC\Week2-AC\bin\Debug\net5.0\Week2-AC.pdb
+C:\Users\eleonora.lombardo\source\repos\Week2-AC\Week2-AC\obj\Debug\net5.0\Week2-AC.csproj.AssemblyReference.cache
+C:\Users\eleonora.lombardo\source\repos\Week2-AC\Week2-AC\obj\Debug\net5.0\Week2-AC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eleonora.lombardo\source\repos\Week2-AC\Week2-AC\obj\Debug\net5.0\Week2-AC.AssemblyInfoInputs.cache
+C:\Users\eleonora.lombardo\source\repos\Week2-AC\Week2-AC\obj\Debug\net5.0\Week2-AC.AssemblyInfo.cs
+C:\Users\eleonora.lombardo\source\repos\Week2-AC\Week2-AC\obj\Debug\net5.0\Week2-AC.csproj.CoreCompileInputs.cache
+C:\Users\eleonora.lombardo\source\repos\Week2-AC\Week2-AC\obj\Debug\net5.0\Week2-AC.dll
+C:\Users\eleonora.lombardo\source\repos\Week2-AC\Week2-AC\obj\Debug\net5.0\ref\Week2-AC.dll
+C:\Users\eleonora.lombardo\source\repos\Week2-AC\Week2-AC\obj\Debug\net5.0\Week2-AC.pdb
+C:\Users\eleonora.lombardo\source\repos\Week2-AC\Week2-AC\obj\Debug\net5.0\Week2-AC.genruntimeconfig.cache
